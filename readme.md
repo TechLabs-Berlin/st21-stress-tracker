@@ -46,7 +46,7 @@ https://github.com/TechLabs-Berlin/st21-stress-tracker/blob/main/Blogpost.md
 - Alex, Data Science track
 - Madina, Data Science track
 - Marcel, Data Science track
-- Muhammet, Data Science track
+- Mikail, Data Science track
 
 - Alba, UX track
 - Priyanka, UX track
